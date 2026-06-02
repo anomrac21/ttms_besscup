@@ -72,6 +72,7 @@ baseURL = 'https://besscup.ttmenus.com/'
     apiUrl = "https://notify.ttmenus.com/api/v1"
     websocketUrl = "wss://notify.ttmenus.com/api/v1/ws/connect"
     serviceUrl = "https://notify.ttmenus.com"
+    clientDomain = "besscup.ttmenus.com"
 
 [params.orderingsystem]
     # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
@@ -82,7 +83,7 @@ baseURL = 'https://besscup.ttmenus.com/'
     hastables = true
     usephonecall = false
     whatsapp = "18687351000"
-    phone = "186877351000"
+    phone = "18687351000"
 
 [params.services]
     analyticsid = "0"
@@ -91,10 +92,10 @@ baseURL = 'https://besscup.ttmenus.com/'
 [params.social]
     youtube = ""
     email = "anomrac21@gmail.com"
-    phone = "186877351000"
+    phone = "18687351000"
     facebook = ""
-    instagram = ""
-    tiktok = ""
+    instagram = "https://www.instagram.com/besscuptt"
+    tiktok = "https://www.tiktok.com/@besscuptt"
 
 [privacy]
 
