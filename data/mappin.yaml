@@ -1,6 +1,6 @@
 # Exported in /index.json as top-level "mappin" for TTMenus hub map pins.
-# Defaults: black fill, white stroke (override per brand as needed).
+# Bess Cup: pink fill, white stroke.
 
-fill: "#000000"
+fill: "#e8a4b8"
 border: "#ffffff"
 border_width: 2

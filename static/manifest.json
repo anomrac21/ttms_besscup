@@ -1,5 +1,5 @@
 {
-    "background_color": "#000000",
+    "background_color": "#e8a4b8",
     "description": "Bess Cup Digital Menu",
     "display": "standalone",
     "icons": [
@@ -68,5 +68,5 @@
     ],
     "short_name": "Bess Cup",
     "start_url": ".",
-    "theme_color": "#000000"
+    "theme_color": "#e8a4b8"
 }
