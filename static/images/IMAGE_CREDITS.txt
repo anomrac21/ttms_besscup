@@ -1,0 +1,12 @@
+Section photos (Pexels License — free to use):
+- hot-cups.webp — Pexels #894695
+- cold-cups.webp — Pexels #997296
+- specialty-cups.webp — Pexels #2789326
+- mocktails.webp — Pexels #1126728
+- desserts.webp — Pexels #291528
+- promotions.webp — Pexels #2233348
+- hero.webp — Pexels #302899
+- slideshow-hot.webp — Pexels #894695
+- slideshow-specialty.webp — Pexels #2789326
+- slideshow-mocktails.webp — Pexels #1126728
+- slideshow-desserts.webp — Pexels #291528

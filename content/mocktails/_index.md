@@ -1,7 +1,9 @@
 ---
 title: Mocktails
 weight: 5
-icon: https://cdn.ttmenus.com/icons/drink/icon-sigcocktails.webp
+icon: images/mocktails.webp
+images:
+    primary: images/mocktails.webp
 ---
 
 Non-alcoholic cocktails.

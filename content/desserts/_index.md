@@ -1,7 +1,9 @@
 ---
 title: Desserts
 weight: 6
-icon: https://cdn.ttmenus.com/icons/food/icon-dessert.webp
+icon: images/desserts.webp
+images:
+    primary: images/desserts.webp
 ---
 
 Sweet treats and ice cream.

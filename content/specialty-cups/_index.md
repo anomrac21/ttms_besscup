@@ -1,7 +1,9 @@
 ---
 title: Specialty Cups
 weight: 4
-icon: https://cdn.ttmenus.com/icons/drink/icon-milkshake.webp
+icon: images/specialty-cups.webp
+images:
+    primary: images/specialty-cups.webp
 ---
 
 Juices, milkshakes, smoothies, and daiquiris.
