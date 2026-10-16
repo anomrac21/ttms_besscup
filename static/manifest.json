@@ -51,6 +51,8 @@
         }
     ],
     "name": "Bess Cup",
+    "id": "/",
+    "scope": "/",
     "screenshots": [
         {
             "form_factor": "wide",
@@ -67,6 +69,6 @@
         }
     ],
     "short_name": "Bess Cup",
-    "start_url": ".",
+    "start_url": "/",
     "theme_color": "#e8a4b8"
 }

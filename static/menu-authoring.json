@@ -1,0 +1,199 @@
+{
+  "multi_location_menus": false,
+  "shared": [
+    {
+      "section": "cold-cups",
+      "file": "iced-cappuccino",
+      "authoring": "shared",
+      "content_path": "content/_shared/cold-cups/iced-cappuccino.md"
+    },
+    {
+      "section": "cold-cups",
+      "file": "iced-chai",
+      "authoring": "shared",
+      "content_path": "content/_shared/cold-cups/iced-chai.md"
+    },
+    {
+      "section": "cold-cups",
+      "file": "iced-coffee",
+      "authoring": "shared",
+      "content_path": "content/_shared/cold-cups/iced-coffee.md"
+    },
+    {
+      "section": "cold-cups",
+      "file": "iced-tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/cold-cups/iced-tea.md"
+    },
+    {
+      "section": "desserts",
+      "file": "affogato",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/affogato.md"
+    },
+    {
+      "section": "desserts",
+      "file": "baked-treats",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/baked-treats.md"
+    },
+    {
+      "section": "desserts",
+      "file": "cake-slices",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/cake-slices.md"
+    },
+    {
+      "section": "desserts",
+      "file": "deep-fried-ice-cream",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/deep-fried-ice-cream.md"
+    },
+    {
+      "section": "desserts",
+      "file": "fresh-donut-dots",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/fresh-donut-dots.md"
+    },
+    {
+      "section": "desserts",
+      "file": "ice-cream",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/ice-cream.md"
+    },
+    {
+      "section": "desserts",
+      "file": "sweet-cups",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/sweet-cups.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "americano",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/americano.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "cafe-latte",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/cafe-latte.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "cappuccino",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/cappuccino.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "chai-latte",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/chai-latte.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "flat-white",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/flat-white.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "hot-chocolate",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/hot-chocolate.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "london-fog",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/london-fog.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "mochaccino",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/mochaccino.md"
+    },
+    {
+      "section": "hot-cups",
+      "file": "tea",
+      "authoring": "shared",
+      "content_path": "content/_shared/hot-cups/tea.md"
+    },
+    {
+      "section": "mocktails",
+      "file": "blue-lagoon",
+      "authoring": "shared",
+      "content_path": "content/_shared/mocktails/blue-lagoon.md"
+    },
+    {
+      "section": "mocktails",
+      "file": "bob-marley",
+      "authoring": "shared",
+      "content_path": "content/_shared/mocktails/bob-marley.md"
+    },
+    {
+      "section": "mocktails",
+      "file": "mimosa",
+      "authoring": "shared",
+      "content_path": "content/_shared/mocktails/mimosa.md"
+    },
+    {
+      "section": "mocktails",
+      "file": "mojito",
+      "authoring": "shared",
+      "content_path": "content/_shared/mocktails/mojito.md"
+    },
+    {
+      "section": "mocktails",
+      "file": "shirley-temple",
+      "authoring": "shared",
+      "content_path": "content/_shared/mocktails/shirley-temple.md"
+    },
+    {
+      "section": "mocktails",
+      "file": "strawberry-lemonade",
+      "authoring": "shared",
+      "content_path": "content/_shared/mocktails/strawberry-lemonade.md"
+    },
+    {
+      "section": "mocktails",
+      "file": "sunset",
+      "authoring": "shared",
+      "content_path": "content/_shared/mocktails/sunset.md"
+    },
+    {
+      "section": "mocktails",
+      "file": "virgin-colada",
+      "authoring": "shared",
+      "content_path": "content/_shared/mocktails/virgin-colada.md"
+    },
+    {
+      "section": "specialty-cups",
+      "file": "daiquiri",
+      "authoring": "shared",
+      "content_path": "content/_shared/specialty-cups/daiquiri.md"
+    },
+    {
+      "section": "specialty-cups",
+      "file": "fresh-cold-press-juices",
+      "authoring": "shared",
+      "content_path": "content/_shared/specialty-cups/fresh-cold-press-juices.md"
+    },
+    {
+      "section": "specialty-cups",
+      "file": "milkshakes",
+      "authoring": "shared",
+      "content_path": "content/_shared/specialty-cups/milkshakes.md"
+    },
+    {
+      "section": "specialty-cups",
+      "file": "smoothies",
+      "authoring": "shared",
+      "content_path": "content/_shared/specialty-cups/smoothies.md"
+    }
+  ],
+  "location": [],
+  "generated_at": "2026-10-16T01:28:07.438302+00:00"
+}

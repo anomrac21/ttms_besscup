@@ -1,50 +1,64 @@
 :root {
-  /* Bess Cup brand: cream, pink accents, soft blue footer */
+    /* Header */
+    --header-color: #e8a4b8;
+    --header-bg-color: #e8a4b8;
+    --header-text-color: #111111;
+    --header-text-shadow-color: #00000030;
+    --header-icon-color: #111111;
+    --header-bordercolor-1: #d4899f;
+    --header-bordercolor-2: #d4899f;
+    --header-border-color: #d4899f;
+    --header-bg-image: none;
 
-  /* Header */
-  --header-color: #e8a4b8ee;
-  --header-bg-color: #e8a4b8ee;
-  --header-text-color: #ffffff;
-  --header-icon-color: #ffffff;
-  --header-text-shadow-color: #00000030;
-  --header-bordercolor-1: #d4899f;
-  --header-bordercolor-2: #d4899f;
-  --header-bg-image: none;
+    /* Hero */
+    --hero-bg-color: #f4dec3;
+    --hero-bg-color-1: #f4dec3;
+    --hero-bg-color-2: #f4dec3;
+    --hero-bg-image-fg-color: #e8a4b8;
+    --hero-text-color: #111111;
+    --hero-features-icon-color: #111111;
+    --hero-features-icon-bg-color: #e8a4b8;
+    --hero-border-color: #d4899f;
+    --contact-info-bg: #7eb8d4;
 
-  /* Hero */
-  --hero-bg-color: #f4dec3;
-  --hero-bg-image-fg-color: #e8a4b8;
-  --hero-text-color: #111111;
-  --contact-info-bg: #7eb8d4;
+    /* Main */
+    --main-bg: #f4dec3;
+    --main-bg-color: #f4dec3;
+    --main-text-color: #111111;
 
-  /* Main */
-  --main-bg: #f4dec3;
-  --main-bg-color: #f4dec3;
-  --main-text-color: #111111;
+    /* Menu */
+    --menu-bg-color-1: #e8a4b8;
+    --menu-bg-color-2: #d4899f;
+    --menu-text-color: #111111;
 
-  /* Menu sections & cards */
-  --menu-bg-color-1: #e8a4b8;
-  --menu-bg-color-2: #d4899f;
-  --menu-text-color: #ffffff;
+    /* Buttons */
+    --button-color1: #e8a4b8;
+    --button-color2: #c97d96;
+    --button-text-color1: #111111;
+    --button-text-color2: #111111;
+    --button-text-color3: #111111;
+    --favorite-color: #7eb8d4;
 
-  /* Buttons */
-  --button-color1: #e8a4b8;
-  --button-color2: #c97d96;
-  --button-text-color1: #ffffff;
-  --button-text-color2: #ffffff;
-  --button-text-color3: #ffffff;
+    /* Selected */
+    --selected-button-color1: #7eb8d4;
+    --selected-button-color2: #5a9fbe;
+    --selected-button-color3: #f4dec3;
+    --selected-button-color4: #e8a4b8;
+    --selected-text-color1: #111111;
+    --selected-text-color2: #111111;
+    --selected-text-color3: #111111;
+    --select-color: #f4dec3;
 
-  /* Selected / active */
-  --selected-button-color1: #7eb8d4;
-  --selected-button-color2: #5a9fbe;
-  --selected-button-color3: #f4dec3;
-  --selected-button-color4: #e8a4b8ee;
-  --selected-text-color1: #ffffff;
-  --selected-text-color2: #ffffff;
-  --selected-text-color3: #5a9fbe;
+    /* Accent */
+    --accent-color: #7eb8d4;
+    --accent-text-color: #111111;
+    --accent-glow-color: #d4899f;
 
-  /* Footer & modals */
-  --footer-bg-color: #7eb8d4ee;
-  --footer-text-color: #f4dec3;
-  --modal-bg-container-color: #00000055;
+    /* Footer */
+    --footer-bg-color: #7eb8d4;
+    --footer-text-color: #f4dec3;
+    --footer-icon-color: #f4dec3;
+
+    /* Modal */
+    --modal-bg-container-color: #000000;
 }
